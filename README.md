@@ -1,3 +1,5 @@
-# projeto-futebol
+## Criar um ambiente virtual
 
-Sistema simples em Streamlit para exibir tabelas e gráficos.
+```bash
+python -m venv .venv --upgrade-deps
+```
